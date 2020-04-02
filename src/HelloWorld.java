@@ -9,5 +9,6 @@ class HelloWorld {
         // Poniżej dodałem zmiany do pierwotnej wersji
         System.out.println("i");
         System.out.println("commitowania");
+        System.out.println("użyłem commit" + " i push jednocześnie");
     }
 }
